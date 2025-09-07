@@ -9,6 +9,8 @@ Just some personal notes.
 
 - To add dependencies use `uv add 'package'`. It is added to the 'pyproject.toml' file.
 
+- To start a jupyter console, run `uv run jupyter lab`
+
 ## VIM commands
 - Use ESC to type in commands. Write `:wq` to save and quit. (Useful when using `git commit` without -m argument).
 - Use `:q!` to quit and throw away changes (aborts commit).
